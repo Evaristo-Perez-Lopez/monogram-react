@@ -1,0 +1,19 @@
+html,
+body,
+* {
+  font-family: 'Prompt', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+}
+
+:root {
+  --blue: #1a2456;
+  --melon: #ff8b68;
+  --orange: #ff501c;
+  --light: #f0efed;
+  --dark: #080b1b;
+}
