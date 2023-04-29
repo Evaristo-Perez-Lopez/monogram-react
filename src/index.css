@@ -13,7 +13,13 @@ body,
 :root {
   --blue: #1a2456;
   --melon: #ff8b68;
+  --pink: #efc2b3;
   --orange: #ff501c;
   --light: #f0efed;
   --dark: #080b1b;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
 }
